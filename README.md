@@ -1,12 +1,13 @@
 ## Hi there 👋
+######
 ## I am Haoxuan Porridge Zou, a CS+Music majors + Game Design minor freshman at Cornell University.
-
+######
 
 - 👯 I’m looking to collaborate on Game Projects!
 - 🌱 In terms of CS, I’m currently learning Game Design/Web Design/ML techniques.
 - 📫 How to reach me: hz252@cornell.edu 
 - 💡 I am also interested in musicking and reading.
-I'm thinking.
+######I'm thinking.
 
 > 天若有情天亦老，人间正道是沧桑。
 
