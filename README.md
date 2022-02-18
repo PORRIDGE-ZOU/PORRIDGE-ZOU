@@ -3,9 +3,12 @@
 
 
 - 👯 I’m looking to collaborate on Game Projects!
-- 🌱 I’m currently learning Game Design/Web Design/ML techniques.
+- 🌱 In terms of CS, I’m currently learning Game Design/Web Design/ML techniques.
 - 📫 How to reach me: hz252@cornell.edu 
->helloworld.
+- 💡 I am also interested in musicking and reading.
+I'm thinking.
+
+> 天若有情天亦老，人间正道是沧桑。
 
 <!--
 **PORRIDGE-ZOU/PORRIDGE-ZOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
