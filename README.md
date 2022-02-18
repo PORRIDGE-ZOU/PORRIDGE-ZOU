@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings 👋
 ######
 ## I am Haoxuan Porridge Zou, a CS+Music majors + Game Design minor freshman at Cornell University.
 ######
