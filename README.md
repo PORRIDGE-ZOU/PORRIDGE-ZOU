@@ -5,10 +5,10 @@
 
 - 🤔 I am a CS+Music majors + Game Design minor freshman at Cornell University.
 - 👯 I’m looking to collaborate on Game Projects!
-<!--- 🌱 In terms of CS, I’m currently learning Game Design/Web Design/ML techniques.-->
 - 📫 How to reach me: hz252@cornell.edu 
 - 💡 I am also interested in musicking and reading.
 - [LinkedIn](https://www.linkedin.com/in/haoxuan-zou-b8227721a/)
+<!--- 🌱 In terms of CS, I’m currently learning Game Design/Web Design/ML techniques.-->
 
 I'm thinking.
 
