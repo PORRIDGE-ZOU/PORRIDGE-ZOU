@@ -10,10 +10,6 @@
 - [LinkedIn](https://www.linkedin.com/in/haoxuan-zou-b8227721a/)
 <!--- 🌱 In terms of CS, I’m currently learning Game Design/Web Design/ML techniques.-->
 
-I'm thinking.
-
-> 天若有情天亦老，人间正道是沧桑。
-
 <!--
 **PORRIDGE-ZOU/PORRIDGE-ZOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
