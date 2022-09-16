@@ -1,6 +1,6 @@
 ## Greetings 👋
 ######
-### I am Haoxuan Porridge Zou.
+### I am Haoxuan George Zou.
 ######
 
 - 🤔 I am a CS + Music + Game Design freshman at Cornell University.
