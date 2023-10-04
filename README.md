@@ -3,7 +3,7 @@
 ### I am Haoxuan George Zou.
 ######
 
-- 🤔 I am a student from Cornell University majoring in CS, Music, minoring in Game Design.
+- 🤔 I am a student from Cornell University majoring in CS and Math, with minors in Game Design and Music..
 - 👯 I’m looking for collaboration on Game Projects. Check [this](https://github.com/Baymax-ray/CS-3152-G6) out: the current game I'm working on (in a group of 8)!
 - 📫 How to reach me: hz252@cornell.edu 
 - 💡 I am also interested in musicking and reading.
