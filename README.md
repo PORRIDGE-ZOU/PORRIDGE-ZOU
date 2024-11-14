@@ -9,8 +9,6 @@
 - 💡 I am also interested in musicking. Check out my original music: [My Music](https://drive.google.com/drive/folders/1BNlJSl5nKWqsN-sIwThOZx64IjiqJyqm?usp=share_link)
 - [LinkedIn](https://www.linkedin.com/in/haoxuan-zou-b8227721a/)
 - [Personal Website](https://www.georgezou.com/)
-<!--- 🌱 In terms of CS, I’m currently learning Game Design/Web Design/ML techniques.-->
-
 <!--
 **PORRIDGE-ZOU/PORRIDGE-ZOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
