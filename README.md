@@ -3,10 +3,9 @@
 ### I am George (Haoxuan) Zou.
 ######
 
-- 🤔 I am a student from Cornell University majoring in CS and Music, with a minor in Game Design. 
+- 🤔 I am currently a master's student at USC IMGD (Game Design and Development).
 - 👯 I’m looking for collaboration on Game Projects. Check [this](https://github.com/huoshenlaile/cs4152) out: the largest game I've worked on.
-- 📫 How to reach me: hz252@cornell.edu 
-- 💡 I am also interested in musicking. Check out my original music: [My Music](https://drive.google.com/drive/folders/1BNlJSl5nKWqsN-sIwThOZx64IjiqJyqm?usp=share_link)
+- 📫 How to reach me: georgezou52@gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/haoxuan-zou-b8227721a/)
 - [Personal Website](https://www.georgezou.com/)
 <!--
