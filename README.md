@@ -1,6 +1,6 @@
 ## Greetings 👋
 ######
-### I am George (Haoxuan) Zou.
+### I am George Zou.
 ######
 
 - 🤔 I am currently a master's student at USC IMGD (Game Design and Development).
