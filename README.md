@@ -4,7 +4,7 @@
 ######
 
 - 🤔 I am currently a master's student at USC IMGD (Game Design and Development).
-- 👯 I’m looking for collaboration on Game Projects. Check [this](https://github.com/huoshenlaile/cs4152) out: the largest game I've worked on.
+- 👯 I’m looking for collaboration on Game Projects. Check [this](https://www.georgezou.com/games/duckies) out: the largest game I've worked on.
 - 📫 How to reach me: georgezou52@gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/haoxuan-zou-b8227721a/)
 - [Personal Website](https://www.georgezou.com/)
